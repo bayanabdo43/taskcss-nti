@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+.clear{
+    clear: both;
+}
+.section1{
+background-color: rgb(10, 155, 212);
+}
+h1{
+    text-align: center;
+    color: white;
+    height: 5;
+    margin: 3;
+    padding: 2%;
+    margin-bottom: 2%;
+}
+
+.tx-p{
+    width: 30%;
+    text-align:justify;
+    color: white;
+    float: right;
+}
+
+.tt{
+    color: yellow;
+    display: block;
+}
+.section1 form{
+    width: 40%;
+    float: left;
+    
+    
+}
+.tx-p p , .tx-p h3{
+    margin-bottom: 5%;
+
+}
+.container form input , .container form textarea {
+    width: 80%;
+    margin: 2%;
+    border: white;
+    border-radius: 2%;
+    height: 25px;
+    padding: 3%;
+
+}
+.container button{
+    padding: 3%;
+    border-radius: 10%;
+    background-color: yellow;
+    float:right;
+    width: 40%;
+    margin-right:11%;
+    
+}
+.section1 form textarea{
+    height: 60px;
+    resize: none;
+}
+#input-com , #input-pho{
+    width: 35%;
+    
+}
